@@ -1,0 +1,14 @@
+[
+    {
+        "date": "12-2-2007",
+        "amount": 60000.0,
+        "category": "savings",
+        "description": "my money"
+    },
+    {
+        "date": "23-12-2018",
+        "amount": 90000.0,
+        "category": "savings",
+        "description": "my money"
+    }
+]
